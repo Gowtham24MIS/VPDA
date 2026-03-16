@@ -1,0 +1,6 @@
+@vpda_backend_HostAddress = http://localhost:5298
+
+GET {{vpda_backend_HostAddress}}/api/voice/
+Accept: application/json
+
+###
